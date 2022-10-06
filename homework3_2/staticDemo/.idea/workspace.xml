@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52e391cc-c985-49f6-a610-f9ee95c68b1a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/homework3_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractClasses/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractClasses/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractClasses/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractClasses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractClasses/abstractClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractClasses/src/GameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractClasses/src/KidsGameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractClasses/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractClasses/src/ManGameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractClasses/src/OlderGameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractClasses/src/WomanGameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractDemo/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractDemo/abstractDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractDemo/src/BaseDatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractDemo/src/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractDemo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractDemo/src/MySqlDatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractDemo/src/OracleDatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractDemo/src/SqlServerDatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceDemo/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceDemo/interfaceDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceDemo/src/IEatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceDemo/src/IPayable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceDemo/src/IWorkable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceDemo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceDemo/src/OutsourceWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceDemo/src/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceDemo/src/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/src/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/src/ICustomerDal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/src/IRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/src/MySqlCustomerDal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/src/OracleCustomerDal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../overriding/overriding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../overriding/src/BaseKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../overriding/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../overriding/src/OgrenciKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../overriding/src/OgretmenKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../overriding/src/TarimKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../polymorphismDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../polymorphismDemo/polymorphismDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../polymorphismDemo/src/BaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../polymorphismDemo/src/ConsoleLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../polymorphismDemo/src/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../polymorphismDemo/src/DatabaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../polymorphismDemo/src/EmailLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../polymorphismDemo/src/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../polymorphismDemo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DatabaseHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProductValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Fl4PaKfLJNubULoDNSDDVaDfBM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="staticDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52e391cc-c985-49f6-a610-f9ee95c68b1a" name="Changes" comment="" />
+      <created>1665053316056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665053316056</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
