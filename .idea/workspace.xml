@@ -1,79 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fa14a05-d650-49e0-89b8-2782bda403ab" name="Changes" comment="homework 3_1">
-      <change afterPath="$PROJECT_DIR$/homework3_2/.idea/homework3_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractClasses/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractClasses/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractClasses/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractClasses/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractClasses/abstractClasses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractClasses/src/GameCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractClasses/src/KidsGameCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractClasses/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractClasses/src/ManGameCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractClasses/src/OlderGameCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractClasses/src/WomanGameCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractDemo/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractDemo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractDemo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractDemo/abstractDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractDemo/src/BaseDatabaseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractDemo/src/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractDemo/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractDemo/src/MySqlDatabaseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractDemo/src/OracleDatabaseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/abstractDemo/src/SqlServerDatabaseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaceDemo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaceDemo/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaceDemo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaceDemo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaceDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaceDemo/interfaceDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaceDemo/src/IEatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaceDemo/src/IPayable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaceDemo/src/IWorkable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaceDemo/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaceDemo/src/OutsourceWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaceDemo/src/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaceDemo/src/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaces/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaces/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaces/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaces/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaces/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaces/interfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaces/src/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaces/src/ICustomerDal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaces/src/IRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaces/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaces/src/MySqlCustomerDal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/interfaces/src/OracleCustomerDal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/overriding/overriding.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/overriding/src/BaseKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/overriding/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/overriding/src/OgrenciKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/overriding/src/OgretmenKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/overriding/src/TarimKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/polymorphismDemo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/polymorphismDemo/polymorphismDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/polymorphismDemo/src/BaseLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/polymorphismDemo/src/ConsoleLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/polymorphismDemo/src/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/polymorphismDemo/src/DatabaseLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/polymorphismDemo/src/EmailLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/polymorphismDemo/src/FileLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/polymorphismDemo/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/staticDemo/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/staticDemo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/staticDemo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/staticDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/staticDemo/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/staticDemo/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/staticDemo/src/ProductManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/staticDemo/src/ProductValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3_2/staticDemo/staticDemo.iml" afterDir="false" />
+    <list default="true" id="1fa14a05-d650-49e0-89b8-2782bda403ab" name="Changes" comment="homework 3_2">
+      <change afterPath="$PROJECT_DIR$/homework3_3/kodlamaio/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_3/kodlamaio/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_3/kodlamaio/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_3/kodlamaio/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_3/kodlamaio/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_3/kodlamaio/kodlamaio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_3/kodlamaio/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_3/kodlamaio/src/business/CourseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_3/kodlamaio/src/core/logging/DatabaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_3/kodlamaio/src/core/logging/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_3/kodlamaio/src/core/logging/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_3/kodlamaio/src/core/logging/MailLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_3/kodlamaio/src/dataAccess/CourseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_3/kodlamaio/src/dataAccess/HibernateCourseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_3/kodlamaio/src/dataAccess/JdbcCourseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_3/kodlamaio/src/entities/Course.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665050684015</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="homework 3_2">
+      <created>1665054084891</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665054084891</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +105,7 @@
     <MESSAGE value="homework 1" />
     <MESSAGE value="homework 2" />
     <MESSAGE value="homework 3_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 3_1" />
+    <MESSAGE value="homework 3_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 3_2" />
   </component>
 </project>
