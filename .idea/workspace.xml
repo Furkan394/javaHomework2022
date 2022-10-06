@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fa14a05-d650-49e0-89b8-2782bda403ab" name="Changes" comment="homework 1">
+    <list default="true" id="1fa14a05-d650-49e0-89b8-2782bda403ab" name="Changes" comment="homework 2">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/.idea/homework3_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/deger_referans_tipler/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/deger_referans_tipler/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/deger_referans_tipler/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/deger_referans_tipler/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/deger_referans_tipler/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/deger_referans_tipler/deger_referans_tipler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/deger_referans_tipler/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/oop_demo/src/BaseCreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/oop_demo/src/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/oop_demo/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/oop_demo/src/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/oop_demo/src/ICreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/oop_demo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/oop_demo/src/MilitaryCreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/oop_demo/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3_1/oop_demo/src/TeacherCreditManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,13 +44,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/javaHomework2022&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/javaHomework2022/homework3_1"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\javaHomework2022\homework1" />
@@ -49,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663259778608</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="homework 2">
+      <created>1663871230850</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663871230850</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -65,6 +96,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="homework 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 1" />
+    <MESSAGE value="homework 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 2" />
   </component>
 </project>
